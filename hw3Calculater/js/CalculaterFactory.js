@@ -39,4 +39,3 @@ CalculaterFactory = function ()
        marker = '';
   }
 };
-Contact GitHub API Training Shop Blog About
